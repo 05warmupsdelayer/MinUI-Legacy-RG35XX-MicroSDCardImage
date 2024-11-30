@@ -16,7 +16,7 @@
    To reset the ROMS partition, place an empty file named `init_roms` in the **BOOT** partition of the microSD card. On the next boot, the system will reinitialize the ROMS partition.
 
 
-#------------------------------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------------
 # MinUI
 
 MinUI is a focused custom launcher for the Anbernic RG35XX (and possibly others to come).
